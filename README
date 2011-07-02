@@ -1,0 +1,9 @@
+Be sure to change the path in the getquote.sh file to the correct path.
+
+To run at terminal login, add a call to the getquote.sh file in your .bashrc
+
+
+Extra quotes can be adding lines in the form:
+<quote string> -- <author> 
+
+Blank lines are ignored.
